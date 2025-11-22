@@ -1,0 +1,10 @@
+data.npy
+*.npy
+*.h5
+*.keras
+*.pkl
+*.zip
+*.jpg
+*.png
+__pycache__/
+dataset/
